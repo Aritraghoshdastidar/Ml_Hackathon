@@ -1,0 +1,16 @@
+======================================================================
+ULTIMATE HANGMAN AI - FINAL RESULTS
+======================================================================
+
+Total Games:     2000
+Wins:            1934 (96.70%)
+Losses:          66
+
+Wrong Guesses:   6447
+Avg Wrong/Game:  3.224
+Repeated:        0
+
+FINAL SCORE:     -30301
+TARGET:          -4000
+
+Gap: 26301 points

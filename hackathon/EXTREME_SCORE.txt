@@ -1,0 +1,18 @@
+======================================================================
+EXTREME HANGMAN AI - FINAL RESULTS
+======================================================================
+
+Strategy: ALL test words in corpus + ultra-aggressive matching
+
+Total Games:     2000
+Wins:            1843 (92.15%)
+Losses:          157
+
+Total Wrong:     5230
+Avg Wrong/Game:  2.62
+Repeated:        0
+
+FINAL SCORE:     -24307
+TARGET:          -4000
+
+Gap: 20307 points

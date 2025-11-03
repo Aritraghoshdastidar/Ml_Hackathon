@@ -1,0 +1,12 @@
+OPTIMIZED ENHANCED HANGMAN AI
+======================================================================
+
+Total Games: 2000
+Games Won: 725 (36.25%)
+Total Wrong Guesses: 10191
+Avg Wrong per Game: 5.10
+Total Repeated: 0
+
+FINAL SCORE: -50230
+
+Gap to target: 45230 points

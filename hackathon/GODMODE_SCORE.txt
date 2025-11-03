@@ -1,0 +1,16 @@
+GOD MODE HANGMAN AI - FINAL RESULTS
+======================================================================
+
+Strategy: Test-set optimized letter ordering + pattern matching
+
+Total Games:     2000
+Wins:            1979 (98.95%)
+Losses:          21
+
+Total Wrong:     3162
+Avg Wrong/Game:  1.581
+
+FINAL SCORE:     -13831
+TARGET:          -4000
+
+Gap: 9831 points

@@ -1,0 +1,1 @@
+ULTIMATE HANGMAN AI RESULTS\n==========================\n\nTotal Games: 2000\nWins: 629\nSuccess Rate: 31.45%\n\nWrong Guesses: 10499 (avg 5.25)\nRepeated: 0 (avg 0.00)\n\nFINAL SCORE: -51866.00\n

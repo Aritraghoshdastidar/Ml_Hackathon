@@ -1,0 +1,14 @@
+GENIUS HANGMAN AI - FINAL RESULTS
+======================================================================
+
+Total Games:     2000
+Wins:            1976 (98.80%)
+Losses:          24
+
+Total Wrong:     3164
+Avg Wrong/Game:  1.582
+
+FINAL SCORE:     -13844
+TARGET:          -4000
+
+Gap: 9844 points
