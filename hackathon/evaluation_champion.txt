@@ -1,1 +1,0 @@
-CHAMPION HANGMAN AI\n===================\n\nTotal Games: 2000\nWins: 645\nWin Rate: 32.25%\n\nTotal Wrong: 10451\nAvg Wrong/Game: 5.23\n\nTotal Repeated: 0\n\nFINAL SCORE: -51610\n

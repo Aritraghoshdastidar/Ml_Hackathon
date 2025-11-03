@@ -1,1 +1,0 @@
-FINAL HANGMAN AI EVALUATION\n===========================\n\nTotal Games: 2000\nGames Won: 539\nSuccess Rate: 26.95%\n\nTotal Wrong Guesses: 10827\nAvg Wrong per Game: 5.41\n\nTotal Repeated Guesses: 0\nAvg Repeated per Game: 0.00\n\nFINAL SCORE: -53596.00\n
